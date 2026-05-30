@@ -1,11 +1,3 @@
----
-title: ATLAS
-colorFrom: red
-colorTo: gray
-sdk: docker
-pinned: false
----
-
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![OpenEnv 0.2.3](https://img.shields.io/badge/OpenEnv-0.2.3-orange.svg)](https://pypi.org/project/openenv-core/)
